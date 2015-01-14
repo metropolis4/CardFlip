@@ -1,0 +1,22 @@
+.card-style {
+	height: 200px;
+	width: 200px;
+	top: 200px;
+	left: 200px;
+	color: #ffffff;
+}
+.combo-style {
+	text-align: center;
+	line-height: 200px;
+	font-size: 38px;
+	height: 200px;
+	width: 200px;
+	border-radius: 5px;
+	box-shadow: 4px 4px 4px #333333;
+}
+.front-style {
+	background-color: #F1D702;
+}
+.back-style {
+	background: #03D726;
+}
